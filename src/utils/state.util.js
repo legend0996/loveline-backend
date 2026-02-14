@@ -1,0 +1,8 @@
+const STATES = {
+  IDLE: "IDLE",
+  MENU_SENT: "MENU_SENT",
+  OFFER_SELECTED: "OFFER_SELECTED",
+  WAITING_PAYMENT: "WAITING_PAYMENT",
+};
+
+module.exports = { STATES };
